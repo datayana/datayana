@@ -1,5 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Blog](README.md)
 * [About](about.md)
 
